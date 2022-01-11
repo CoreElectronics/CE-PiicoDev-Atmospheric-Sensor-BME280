@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Atmospheric Sensor BME280"
-Date "2021-12-23"
-Rev "v11"
+Date "2022-01-11"
+Rev "v12"
 Comp "Core Electronics"
 Comment1 "designed by Michael Ruppe at:"
 Comment2 "Based off https://github.com/sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280"
