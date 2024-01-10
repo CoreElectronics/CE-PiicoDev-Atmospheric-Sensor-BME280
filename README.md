@@ -1,6 +1,6 @@
 # PiicoDev® Atmospheric Sensor BME280
 
-![](https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/p/i/piicodev-atmospheric-sensor-bme280-with-switch.jpg)
+![](https://core-electronics.com.au/media/catalog/product/p/i/piicodev-atmospheric-sensor-bme280-with-switch.jpg)
 
 This is the repo for the Core Electronics [PiicoDev Atmospheric Sensor BME280](https://core-electronics.com.au/catalog/product/view/sku/CE07503).
 
